@@ -1,2 +1,0 @@
-# pemrograman-integratif
-Pemrograman Integratif
