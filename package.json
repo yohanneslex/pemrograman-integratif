@@ -1,5 +1,5 @@
 {
-  "name": "grpc-nodejs",
+  "name": "grpc-api-proto",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,9 @@
   "license": "ISC",
   "dependencies": {
     "@grpc/grpc-js": "^1.8.13",
-    "google-protobuf": "^3.21.2",
-    "grpc": "^1.24.11"
+    "@grpc/proto-loader": "^0.7.6",
+    "grpc": "^1.24.11",
+    "mysql": "^2.18.1",
+    "mysql2": "^3.2.0"
   }
 }
