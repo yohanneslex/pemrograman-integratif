@@ -14,7 +14,6 @@ Make sure this following tools installed in our machine:
 * Node JS
 * NPM/Yarn (package manager)
 
-![check](img/check-installation.png)
 
 ## What will we learn?
 * [gRPC API & Protobuf](./grpc)
