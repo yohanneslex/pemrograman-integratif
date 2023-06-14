@@ -17,4 +17,4 @@ Make sure this following tools installed in our machine:
 
 ## What will we learn?
 * [gRPC API & Protobuf](./grpc)
-* Web Socket
+* Web Socket (./websocket-chat)
